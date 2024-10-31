@@ -1,6 +1,5 @@
 import { Button } from '@/components/ui/button'
-import { UserButton, UserProfile } from '@clerk/nextjs'
-import { User } from '@clerk/nextjs/server'
+import { UserButton } from '@clerk/nextjs'
 import Image from 'next/image'
 import React from 'react'
 
